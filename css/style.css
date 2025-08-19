@@ -29,12 +29,6 @@ body {
   text-align: center;
 }
 
-.nav-items-studio {
-  text-decoration: none;
-  color: #2e2f42;
-  letter-spacing: 0.02em;
-}
-
 .nav-items-studio:hover {
   color: #404bbf;
 }
