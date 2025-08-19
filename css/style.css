@@ -29,11 +29,11 @@ body {
   text-align: center;
 }
 
-.nav-items-studio:hover {
+.nav-items:hover {
   color: #404bbf;
 }
 
-.nav-items-studio:focus {
+.nav-items:focus {
   color: #404bbf;
   text-decoration: underline;
 }
