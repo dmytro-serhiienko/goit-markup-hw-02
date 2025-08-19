@@ -1,6 +1,7 @@
 body {
   font-family: "Roboto", sans-serif;
   background-color: #ffffff;
+  color: #434455;
 }
 
 /* #region Header */
@@ -127,6 +128,7 @@ body {
 }
 
 .studio-dsr {
+  color: #434455;
   font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
@@ -163,6 +165,7 @@ body {
 }
 
 .team-position {
+  color: #434455;
   font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
