@@ -43,15 +43,6 @@ body {
   letter-spacing: 0.02em;
 }
 
-.nav-items:hover {
-  color: #404bbf;
-}
-
-.nav-items:active {
-  color: #404bbf;
-  text-decoration: underline;
-}
-
 .contact-header {
   font-style: normal;
 }
